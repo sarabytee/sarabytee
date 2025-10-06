@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there, I'm Sara</h1>
 <h3 align="center">A GWU student studying IT with an interest in healthcare!</h3>
 
-- 🔭 I’m currently working on my **CompTIA Security+ Certificate**
+- 🔭 I’m currently working on my **AWS Cloud Practitioner Certificate**
 
-- 🌱 I’m currently learning **Kotlin, C/C++, Bash**
+- 🌱 I’m currently learning **C/C++, Rust, Go**
 
 - 💬 Ask me about my **Capstone Project**
 
